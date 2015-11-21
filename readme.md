@@ -38,7 +38,7 @@ The string attribute key to use for the meta keys (`name` for many tags and `pro
 *Required*  
 Type: `object`
 
-A flat object with key/value pairs that will become meta keys and meta content values.
+An object with key/value pairs that will become meta keys and meta content values. Keys are converted to dash case. Values are passed through [meta-string](https://github.com/bendrucker/meta-string) which stringifies objects.
 
 
 ## License
