@@ -1,4 +1,4 @@
-# meta-tag-data [![Build Status](https://travis-ci.org/bendrucker/meta-tag-data.svg?branch=master)](https://travis-ci.org/bendrucker/meta-tag-data)
+# meta-tag-data [![Build Status](https://travis-ci.org/bendrucker/meta-tag-data.svg?branch=master)](https://travis-ci.org/bendrucker/meta-tag-data) [![Greenkeeper badge](https://badges.greenkeeper.io/bendrucker/meta-tag-data.svg)](https://greenkeeper.io/)
 
 > Convert key/value pairs to <meta> tag data
 
